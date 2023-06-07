@@ -1,6 +1,7 @@
 ## Gilson Filho
 
 - Sou formado em Administração de Empresas, com experiência na área, tendo atuado como autônomo por aproximadamente 10 anos.
+
 - Atualmente, estou em transição de carreira para a área de tecnologia, cursando Análise e Desenvolvimento de Sistemas, com foco em ser um Desenvolvedor Front-end.
 
 <div align="center">
