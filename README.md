@@ -1,9 +1,9 @@
 ## Gilson Filho
-<br>
+
 - Sou formado em Administração de Empresas, com experiência na área, tendo atuado como autônomo por aproximadamente 10 anos.
-<br>
+
 - Atualmente, estou em transição de carreira para a área de tecnologia, cursando Análise e Desenvolvimento de Sistemas, com foco em ser um Desenvolvedor Front-end.
-<br>
+
 <div align="center">
   <a href="https://github.com/gilsonluzfilho">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gilsonluzfilho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
