@@ -1,6 +1,6 @@
 ## Gilson Filho
 
-- 🎓 Formado em Administração de Empresas, com experiência na área, tendo atuado como autônomo por aproximadamente 10 anos.
+- 🎓 Formado em Administração de Empresas, com experiência na área, tendo atuado como autônomo por 10 anos.
 - 🔥 Cursando Análise e Desenvolvimento de Sistemas (ADS).
 - ⚡ Atualmente, estou em transição de carreira para Desenvolvedor Front-end.
 
