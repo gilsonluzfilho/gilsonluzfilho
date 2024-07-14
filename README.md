@@ -1,8 +1,10 @@
 ## Gilson Filho
 
 - 🎓 Formado em Administração de Empresas, com experiência na área, tendo atuado como autônomo por 10 anos.
-- 🔥 Cursando Análise e Desenvolvimento de Sistemas (ADS).
-- ⚡ Atualmente, estou em transição de carreira para Desenvolvedor Front-end.
+  
+- 🎯 Atualmente, estou seguindo minha paixão pela tecnologia e estou cursando Análise e Desenvolvimento de Sistemas, com o propósito de me tornar um Desenvolvedor Full-stack.
+  
+- 🚀 Estou comprometido em aprimorar constantemente minhas habilidades em tecnologias como React e Node.js.
 
 <div align="center">
   <a href="https://github.com/gilsonluzfilho">
@@ -11,6 +13,10 @@
 </div>
 
 <div style="display: inline_block"><br>
+
+  
+  <img align="center" alt="Gilson-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />          
+  <img align="center" alt="Gilson-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Gilson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gilson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gilson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
