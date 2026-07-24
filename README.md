@@ -1,10 +1,10 @@
 ## Gilson Filho
 
-- 🎓 Formado em Administração de Empresas, com experiência na área, tendo atuado como autônomo por 10 anos.
-  
-- 🎯 Atualmente, estou seguindo minha paixão pela tecnologia e estou cursando Análise e Desenvolvimento de Sistemas, com o propósito de me tornar um Desenvolvedor Full-stack.
-  
-- 🚀 Estou comprometido em aprimorar constantemente minhas habilidades em tecnologias como React e Node.js.
+🎓 Formado em Administração de Empresas e em Análise e Desenvolvimento de Sistemas.
+
+💼 Atuo como autônomo na gestão de um pequeno comércio.
+💻 Desenvolvi projetos para uso real e continuo expandindo meu portfólio por meio de projetos pessoais.
+⚛️ Atualmente, foco meus estudos em React, Node.js e TypeScript.
 
 <div align="center">
   <a href="https://github.com/gilsonluzfilho">
